@@ -13,9 +13,17 @@
 ```
 sum()
 max()
+min()
 ```
 
 **List**
 ```
 .sort()  
+```
+
+**Stack**
+```
+peek: stack[-1]                               // gets the last element of the array
+push: .append(val)
+pop: .pop()
 ```
