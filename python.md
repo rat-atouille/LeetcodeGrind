@@ -16,6 +16,12 @@ max()
 min()
 ```
 
+**Dictionary/Hashmap**
+```
+dic[key] = value                                 // return value
+dic[key]                                         // returns value
+```
+
 **List**
 ```
 .sort()  
