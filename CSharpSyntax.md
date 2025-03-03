@@ -3,6 +3,10 @@
 Convert.ToString(var)        // var -> string
 Convert.ToInt32(myDouble)    // double -> int
 Convert.ToType(var)          // var -> typ
+
+// string to char array
+string str = "Hello";
+char[] characters = str.ToCharArray();
 ```
 
 ## Math
