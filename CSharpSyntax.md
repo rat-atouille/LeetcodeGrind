@@ -7,6 +7,10 @@ Convert.ToType(var)          // var -> typ
 // string to char array
 string str = "Hello";
 char[] characters = str.ToCharArray();
+
+// lowercase
+myString.ToLower();
+
 ```
 
 ## Math
